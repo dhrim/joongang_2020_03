@@ -265,5 +265,5 @@ CNN
 ## 5일차
 
 Object Detection
-- YOLO : [object_detection.md](material/object_detection.md)
+- YOLO : [object_detection.md](material/deep_learning/object_detection.md)
 
