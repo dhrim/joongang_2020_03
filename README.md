@@ -8,7 +8,7 @@
 python으로 기본적인 프로그래밍을 할 수있는 학생.
 
 
-# 교육 상세 표표
+# 교육 상세 목표
 
 다음의 코드를 다룰 수 있는 것을 목표로 함
 ```
@@ -267,24 +267,3 @@ CNN
 Object Detection
 - YOLO : [object_detection.md](material/object_detection.md)
 
-
-
-## 12일차
-
-실프로젝트 - OCR
-- ASTER
-- 교육 자료 : [실무과제_ocr.md](material/실무과제_ocr.md)
-
-## 13일차
-
-실프로제트 - Pose Estimation
-- OpenPose, Colab, Webcam
-- 교육자료 : [실무과제_pose_estimation.md](material/실무과제_pose_estimation.md)
-
-실프로젝트 : RealTime Object Detection
-- YOLO, Colab, WebCam
-- 교육자료 : [실무과제_realtime_yolo.md](material/실무과제_realtime_yolo.md)
-
-실프로젝트 : 주가 예측
-- DNN
-- 교육자료 : [실무과제_stock_prediction.md](material/실무과제_stock_prediction.md)
