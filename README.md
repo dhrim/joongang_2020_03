@@ -219,9 +219,12 @@ TensorFlow/Keras
 
 - 교육 환경 : [env.md](material/env.md)
 - numpy : 데이터 로딩, 보기, 데이터 변환, 형태 변경 : [library.md](material/library.md)
-- linux 기본 명령어 : [linux.md](material/linux.md)
+- linux 기본 명령어 : 
     - bash, cd, ls, rm, mkdir, mv, tar, unzip
     - docker, pip, apt, wget, EVN, git
+    - 교육 자료
+        - [linux.md](material/linux.md)
+        - [linux_exercise.md](material/linux_exercise.md)
     
 
 <br>
