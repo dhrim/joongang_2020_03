@@ -16,7 +16,6 @@
 
 - 실습 자료
     - [pandas.ipynb](library/pandas.ipynb)
-    - [TODO](library/pandas_quiz_for_deeplearning.ipynb)
 
 - 참고 자료
     - 공식 홈의 10분 요약 : https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
