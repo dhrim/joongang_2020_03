@@ -234,7 +234,7 @@ TensorFlow/Keras
 ## 3일차
 - CNN 영상분류 - MNIST : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb)
 - CNN 컬러영상분류 - CIFAR10 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb)
-- CNN IRIS 분류 : 
+- CNN IRIS 분류 : [iris_cnn.ipynb](material/deep_learning/iris_cnn.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
 
