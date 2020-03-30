@@ -215,8 +215,54 @@ TensorFlow/Keras
 
 ## 1일차
 
-실습 환경. numpy
+- 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
+- DNN in Keras : [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras.ipynb)
 
+
+<br>
+
+## 2일차
+
+- DNN in Keras : [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras.ipynb)
+- 분류기로서 DNN : [dnn_as_a_classifier.ipynb](material/deep_learning/dnn_as_a_classifier.ipynb)
+- DNN IRIS 분류: [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb)
+- DNN MNIST 분류 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb)
+
+
+<br>
+
+## 3일차
+- CNN 영상분류 - MNIST : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb)
+- CNN 컬러영상분류 - CIFAR10 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb)
+- CNN IRIS 분류 : 
+- VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
+- 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
+
+
+<br>
+
+## 4일차
+- 물체 탐지(Object Detection) - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
+- 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb)
+- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
+- 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning/deep_learning/deep_learning_intro.pptx)
+
+
+<br>
+
+## 5일차
+
+- Kaggle 문제 풀이 리뷰
+- [딥러닝을 사용한 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
+- 딥러닝 실험 계획 리뷰
+- 딥러닝 채용 공고 리뷰
+
+
+<br>
+
+## 기타
+
+교육환경, numpy, pandas, matplot
 - 교육 환경 : [env.md](material/env.md)
 - numpy : 데이터 로딩, 보기, 데이터 변환, 형태 변경 : [library.md](material/library.md)
 - linux 기본 명령어 : 
@@ -225,48 +271,14 @@ TensorFlow/Keras
     - 교육 자료
         - [linux.md](material/linux.md)
         - [linux_exercise.md](material/linux_exercise.md)
-    
-
-<br>
-
-## 2일차
-
-pandas, matplot
-
-- pandas : 데이터 로딩, 보기, 데이터 추출
-- matplot : 그래프 그리기, 이미지 표시하기
-- 교육 자료 : [ibrary.md](material/library.md)
+- pandas, matplot : [ibrary.md](material/library.md)
 
 
-<br>
+기타
+- [디노이징 AutoEncoder](material/deep_learning/denoising_autoencoder.ipynb)
+- [흥미로운 딥러닝 결과](material/deep_learning/some_interesting_deep_learning.pptx)
+- [yolo를 사용한 실시간 불량품 탐지 사례](material/deep_learning/yolo_in_field.mp4)
+- [GAN을 사용한 생산설비 이상 탐지](material/deep_learning/anomaly_detection_using_gan.pptx)
+- [이상탐지 동영상](material/deep_learning/drillai_anomaly_detect.mp4)
 
-## 3일차
-
-딥러닝, DNN
-
-- 딥러닝 입문
-    - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
-    - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
-- Keras 요약 [keras_in_short.md](material/deep_learning/keras_in_short.md)
-- DNN in Keras : [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras.ipynb)
-
-<br>
-
-## 4일차
-
-분류기로써의 DNN
-- 분류기 : [dnn_as_a_classifier.ipynb](material/deep_learning/dnn_as_a_classifier.ipynb)
-- IRIS : [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb)
-- MNIST 영상데이터 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb)
-
-CNN
-- MNIST : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb)
-- CIFAR10 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb)
-- VGG - CIFAR10, ImageNet, custom data : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
-
-
-## 5일차
-
-Object Detection
-- YOLO : [object_detection.md](material/deep_learning/object_detection.md)
 
