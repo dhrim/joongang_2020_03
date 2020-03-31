@@ -216,14 +216,14 @@ TensorFlow/Keras
 ## 1일차
 
 - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
-- DNN in Keras : [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras.ipynb)
+- DNN in Keras : [dnn_in_keras.ipynb](material/deep_learning/dnn_in_keras.ipynb)
 
 
 <br>
 
 ## 2일차
 
-- DNN in Keras : [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras.ipynb)
+- DNN in Keras : [dnn_in_keras.ipynb](material/deep_learning/dnn_in_keras.ipynb)
 - 분류기로서 DNN : [dnn_as_a_classifier.ipynb](material/deep_learning/dnn_as_a_classifier.ipynb)
 - DNN IRIS 분류: [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb)
 - DNN MNIST 분류 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb)
