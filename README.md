@@ -237,15 +237,17 @@ TensorFlow/Keras
 - CNN IRIS 분류 : [iris_cnn.ipynb](material/deep_learning/iris_cnn.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
-- text 분류 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb)
 
 <br>
 
 ## 4일차
+- text 분류 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb)
 - 물체 탐지(Object Detection) - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
 - 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb)
+- 얼굴 인식(face recognition) : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb)
 - GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
-- 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning/deep_learning/deep_learning_intro.pptx)
+- RNN 이해하기
+- 강화학습 이해하기
 
 
 <br>
