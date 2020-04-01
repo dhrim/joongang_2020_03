@@ -237,7 +237,7 @@ TensorFlow/Keras
 - CNN IRIS 분류 : [iris_cnn.ipynb](material/deep_learning/iris_cnn.ipynb)
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
-
+- text 분류 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb)
 
 <br>
 
