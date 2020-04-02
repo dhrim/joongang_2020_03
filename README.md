@@ -245,7 +245,7 @@ TensorFlow/Keras
 - 물체 탐지(Object Detection) - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
 - 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb)
 - 얼굴 인식(face recognition) : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb)
-- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
+- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [GAN of TensorFlow tutofial](https://www.tensorflow.org/tutorials/generative/dcgan?hl=ko)
 - RNN 이해하기
 - 강화학습 이해하기
 
