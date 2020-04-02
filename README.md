@@ -256,7 +256,7 @@ TensorFlow/Keras
 
 - Kaggle 문제 풀이 리뷰
 - [딥러닝을 사용한 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
-- 딥러닝 실험 계획 리뷰
+- 딥러닝 프로젝트 계획 리뷰
 - 딥러닝 채용 공고 리뷰
 
 
