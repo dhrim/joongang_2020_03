@@ -258,6 +258,16 @@ TensorFlow/Keras
 ## 5일차
 
 - Kaggle 문제 풀이 리뷰
+    - Intel Image Classification https://www.kaggle.com/puneet6060/intel-image-classification/kernels
+		- https://www.kaggle.com/uzairrj/beg-tut-intel-image-classification-93-76-accur
+		- CNN, Keras : https://www.kaggle.com/vincee/intel-image-classification-cnn-keras
+		- Dense-Net : https://www.kaggle.com/youngtaek/intel-image-classification-densenet-with-focalloss
+
+    - COVID19 Global Forecasting https://www.kaggle.com/c/covid19-global-forecasting-week-3
+        - sigmoid model : https://www.kaggle.com/corochann/covid-19-eda-with-recent-update-on-april
+        - linear model : https://www.kaggle.com/aerdem4/covid-19-basic-model-not-leaky
+
+
 - [딥러닝을 사용한 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
 - 딥러닝 프로젝트 계획 리뷰
 - 딥러닝 채용 공고 리뷰
